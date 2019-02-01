@@ -16,12 +16,12 @@ The script run_get_primes.py contains instructions for running the various imple
 Sample output for generating all primes up to 100,000:
 ```
 $python3 run_get_primes.py 100000
-found 9592 primes
 running regular python version
 found 9592 primes
 Regular python version took: 15.67s
 
 running regular c version
+found 9592 primes
 Regular c version took: 1.14s
 
 running cython version
